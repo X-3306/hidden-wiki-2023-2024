@@ -6,13 +6,21 @@
 # forums -->
 
 Dread Alert – Dread forum status page.
+
 Rutor – main Russian deepweb forum.
+
 Breaking Bad Forum – the forum of professional participants of the drug market.
+
 Xss.is – famous Russian deepweb forum about hacking.
+
 Exploit.in – the most famous Russian deepweb hacking forum.
+
 ProCrd – famous Russian carding forum.
+
 Sky-Fraud – Russian carding forum.
+
 Top4 – famous Russian drugs forum.
+
 Sat-forum – Russian Simple machines forum. 
 
 # Financial services -->
