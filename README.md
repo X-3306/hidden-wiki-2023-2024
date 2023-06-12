@@ -1,6 +1,33 @@
 # hidden-wiki-2023-2024
 
-hidden links new wiki --> https://darkwave.totalh.net/hidden
+### hidden links new wiki --> https://darkwave.totalh.net/hidden    <------- MANY MORE LINKS HERE
+
+## snippet:
+# forums -->
+
+Dread Alert – Dread forum status page.
+Rutor – main Russian deepweb forum.
+Breaking Bad Forum – the forum of professional participants of the drug market.
+Xss.is – famous Russian deepweb forum about hacking.
+Exploit.in – the most famous Russian deepweb hacking forum.
+ProCrd – famous Russian carding forum.
+Sky-Fraud – Russian carding forum.
+Top4 – famous Russian drugs forum.
+Sat-forum – Russian Simple machines forum. 
+
+# Financial services -->
+trusted high-volume Bitcoin Mixer.
+SinbadMixer – famous crypto tumbler Sinbad.
+AgoraDesk – person-to-person cryptocurrency exchange with own escrow service.
+BitMix – Bitcoin, Dash and Litecoin Mixer Service.
+Boltz – account-free, lightning-friendly crypto exchange.
+
+# Anonymous Email -->
+Riseup – online communication tools for people and groups working on liberatory social change.
+ProtonMail – secure open source email based in Switzerland.
+TempMail Plus – temporary Mail, 10-minutes mail.
+ASAPmail – free anonymous email service with 50 mb storage.
+SecMail – email service that allows you to send and receive mails without violating your privacy.
 
 To access the dark web, download the Tor Browser. It's a secure browser that can be used on Windows, Linux, Mac OS, Android, and iOS devices. Alternatively, you can use the Brave Browser which is available for desktop and mobile devices.
 
