@@ -29,6 +29,10 @@ TempMail Plus – temporary Mail, 10-minutes mail.
 ASAPmail – free anonymous email service with 50 mb storage.
 SecMail – email service that allows you to send and receive mails without violating your privacy.
 
+
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 To access the dark web, download the Tor Browser. It's a secure browser that can be used on Windows, Linux, Mac OS, Android, and iOS devices. Alternatively, you can use the Brave Browser which is available for desktop and mobile devices.
 
 Using Tor is legal in most countries, but it's important to note that certain activities, such as buying or selling drugs or weapons, are illegal.
