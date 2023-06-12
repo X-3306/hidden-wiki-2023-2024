@@ -25,16 +25,24 @@ Sat-forum – Russian Simple machines forum.
 
 # Financial services -->
 trusted high-volume Bitcoin Mixer.
+
 SinbadMixer – famous crypto tumbler Sinbad.
+
 AgoraDesk – person-to-person cryptocurrency exchange with own escrow service.
+
 BitMix – Bitcoin, Dash and Litecoin Mixer Service.
+
 Boltz – account-free, lightning-friendly crypto exchange.
 
 # Anonymous Email -->
 Riseup – online communication tools for people and groups working on liberatory social change.
+
 ProtonMail – secure open source email based in Switzerland.
+
 TempMail Plus – temporary Mail, 10-minutes mail.
+
 ASAPmail – free anonymous email service with 50 mb storage.
+
 SecMail – email service that allows you to send and receive mails without violating your privacy.
 
 
