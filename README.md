@@ -1,6 +1,6 @@
 # hidden-wiki-2023-2024
 
-hidden links new wiki --> https://darkwave.42web.io/hidden
+hidden links new wiki --> https://darkwave.totalh.net/hidden
 
 To access the dark web, download the Tor Browser. It's a secure browser that can be used on Windows, Linux, Mac OS, Android, and iOS devices. Alternatively, you can use the Brave Browser which is available for desktop and mobile devices.
 
