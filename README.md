@@ -1,6 +1,6 @@
 # hidden-wiki-2023-2024
 
-### hidden links new wiki --> https://darkwave.totalh.net/hidden    <------- MANY MORE LINKS HERE
+### hidden links new wiki --> https://darkwave.x10.bz/hidden    <------- MANY MORE LINKS HERE
 
 ## snippet:
 # forums -->
